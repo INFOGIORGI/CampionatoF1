@@ -8,7 +8,7 @@ Il metodo piloti(..) ritorna una stringa contenente numero, nome, cognome e nazi
 Il metodo toString() restituisce una stringa contenente nome e nazione della scuderia, ad esempio: “Team Ferrari (Italia)”
 Il metodo getPunti() restituisce i punti conquistati dalla scuderia ottenuti sommando i punti ottenuti dai piloti della squadra.
 
-##R2: Piloti
+## R2: Piloti
 Ogni pilota è identificato da nome, cognome, nazionalità e numero della vettura (che lo distingue univocamente dagli altri compagni di squadra), dai punti conquistati in ogni gran premio corso e dalla scuderia (team) di appartenenza. Definire i metodi getTeam() e setTeam(). Definire i metodi getPunti() e addPunti(int n) oltre ad un opportuno metodo toString().
  
 ## R3: Gran Premi (GP)
